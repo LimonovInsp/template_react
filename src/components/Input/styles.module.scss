@@ -1,0 +1,11 @@
+@import '../../styles/variables';
+
+.app__input {
+  outline: none;
+  width: 200px;
+  height: 30px;
+  border-radius: 8px;
+  border: 1px solid blueviolet;
+  box-sizing: border-box;
+  padding-left: 15px;
+}
